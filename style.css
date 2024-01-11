@@ -39,7 +39,7 @@ color: blue;
 
 .grid-container {
     display: grid;
-    background-image: url("../images/deskspace.jpg");
+    background-image: url("./deskspace.jpg");
     background-size: cover;
     color: antiquewhite;
     padding-left: 1%;
